@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Hotel_Build::Hotel">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACQGECAAAAAAAIAIAAAAQigAAEgABAAAAUAAAAEAA=</HashCode>
+      <FileName>Hotel.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HotelException" Collapsed="true">
+    <Position X="2.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAABAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>HotelException.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HotelFullException" Collapsed="true">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAIAAAAAAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HotelException.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RoomNotFoundException" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAACAAAAIAAAAAAAA=</HashCode>
+      <FileName>HotelException.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InvalidRoomDataException" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAgAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>HotelException.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="All_Rooms::Room" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAYCCCAAAABAAARYAAQAAAGAAAEAgAAAAAAA=</HashCode>
+      <FileName>Rooms.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="All_Rooms::StandRoom" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAICAAAAAAAAAAAQAARAAAAAAkAAAAAAAAQA=</HashCode>
+      <FileName>Rooms.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="All_Rooms::MiddleRoom" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAICAAAAABABAAAQAAQAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Rooms.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="All_Rooms::LuxRoom" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAICAAAAAAAAAAAQABQAABAAAAIAAAAAACAA=</HashCode>
+      <FileName>Rooms.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
